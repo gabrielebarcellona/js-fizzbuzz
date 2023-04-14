@@ -40,3 +40,13 @@ h1{
     background-color: #dd1200;
     margin: 10px;
 }
+
+.quadrato-giallo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    background-color: #e4eb20;
+    margin: 10px;
+}

@@ -9,4 +9,8 @@ if(i% 3 == 0){
 elecontainer.innerHTML = elecontainer.innerHTML +  ` <div class="quadrato-rosso">${i}</div> `
 }
 
+if(i% 5 == 0){
+    elecontainer.innerHTML = elecontainer.innerHTML +  ` <div class="quadrato-giallo">${i}</div> `
+}
+
 }
