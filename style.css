@@ -25,7 +25,7 @@ h1{
 .quadrato{
     display: flex;
     justify-content: center;
-    align-self: center;
+    align-items: center;
     height: 100px;
     width: 100px;
     background-color: #1389b2;
@@ -34,7 +34,7 @@ h1{
 .quadrato-rosso{
     display: flex;
     justify-content: center;
-    align-self: center;
+    align-items: center;
     height: 100px;
     width: 100px;
     background-color: #dd1200;
