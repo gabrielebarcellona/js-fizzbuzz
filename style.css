@@ -31,13 +31,13 @@ h1{
     background-color: #1389b2;
     margin: 10px;
 }
-.quadrato-rosso{
+.quadrato-verde{
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100px;
     width: 100px;
-    background-color: #dd1200;
+    background-color: #0cd6a1;
     margin: 10px;
 }
 
@@ -47,6 +47,16 @@ h1{
     align-items: center;
     height: 100px;
     width: 100px;
-    background-color: #e4eb20;
+    background-color: #ffd166;
+    margin: 10px;
+}
+
+.quadrato-rosso{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    background-color: #f0466f;
     margin: 10px;
 }
